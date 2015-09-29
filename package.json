@@ -1,0 +1,19 @@
+{
+  "name": "front-end-test-tasks",
+  "version": "0.0.1",
+  "description": "html test tasks",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexeyk91/FrontEndTraining.git"
+  },
+  "author": "alexeyk91",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexeyk91/FrontEndTraining/issues"
+  },
+  "homepage": "https://github.com/alexeyk91/FrontEndTraining#readme"
+}
