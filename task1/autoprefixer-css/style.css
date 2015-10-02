@@ -1,0 +1,40 @@
+.main-container{
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: column wrap;
+        -ms-flex-flow: column wrap;
+            flex-flow: column wrap;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+}
+
+.header,
+.footer {
+    -webkit-flex-grow: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+    width: auto;
+    height: 50px;
+    background: goldenrod;
+    margin: auto;
+}
+
+.site-content{
+    -webkit-flex-grow: 10;
+        -ms-flex-positive: 10;
+            flex-grow: 10;
+    width:auto;
+    height: 400px;
+    background: gainsboro;
+    margin: auto;
+}
+
+.text-content{
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

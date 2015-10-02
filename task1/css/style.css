@@ -1,0 +1,27 @@
+.main-container{
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: space-around;
+}
+
+.header,
+.footer{
+    flex-grow: 1;
+    width: auto;
+    height: 50px;
+    background: goldenrod;
+}
+
+.site-content{
+    flex-grow: 10;
+    width:auto;
+    height: 400px;
+    background: gainsboro;
+}
+
+.text-content{
+    color: white;
+    font-weight: bold;
+    font-size: 3em;
+    text-align: center;
+}
