@@ -23,6 +23,10 @@ body{
     width: 98%;
 }
 
+.border-wrapper{
+    border: 1px solid gray;
+}
+
 .header,
 .footer{
     background: goldenrod;
@@ -54,6 +58,7 @@ body{
 .left-side-panel,
 .right-side-panel{
     background: lemonchiffon;
+    height: 400px;
 }
 
 .right-side-panel{
