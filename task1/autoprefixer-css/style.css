@@ -1,6 +1,6 @@
 html,
 body{
-    height:100%;
+    height: 100%;
     margin: 0;
 }
 
@@ -8,25 +8,40 @@ body{
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    -webkit-flex-flow: column wrap;
-        -ms-flex-flow: column wrap;
-            flex-flow: column wrap;
-    -webkit-align-items: center;
-        -ms-flex-align: center;
-            align-items: center;
+    -webkit-flex-flow: column nowrap;
+        -ms-flex-flow: column nowrap;
+            flex-flow: column nowrap;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+    height: 100%;
+}
+
+/*hack instead of non-working horizontally justify-content*/
+.horizontal-margin{
+    margin: auto;
+    width: 98%;
 }
 
 .header,
 .footer{
-    width: 100%;
-    height: 50px;
     background: goldenrod;
 }
 
 .site-content{
-    width: 100%;
-    height: 500px;
     background: gainsboro;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: row nowrap;
+        -ms-flex-flow: row nowrap;
+            flex-flow: row nowrap;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+    -webkit-align-content: space-around;
+        -ms-flex-line-pack: distribute;
+            align-content: space-around;
 }
 
 .text-content{
@@ -34,5 +49,28 @@ body{
     font-weight: bold;
     font-size: 3em;
     text-align: center;
+}
+
+.left-side-panel,
+.right-side-panel{
+    background: lemonchiffon;
+}
+
+.right-side-panel{
+    -webkit-flex-grow: 3;
+        -ms-flex-positive: 3;
+            flex-grow: 3;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-flow: column nowrap;
+        -ms-flex-flow: column nowrap;
+            flex-flow: column nowrap;
+    -webkit-justify-content: space-around;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+    -webkit-align-content: space-around;
+        -ms-flex-line-pack: distribute;
+            align-content: space-around;
 }
 /*# sourceMappingURL=style.css.map */

@@ -5,6 +5,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task1/autoprefixer-css/style.css.map" afterPath="$PROJECT_DIR$/task1/autoprefixer-css/style.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task1/autoprefixer-css/style.css" afterPath="$PROJECT_DIR$/task1/autoprefixer-css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task1/css/style.css" afterPath="$PROJECT_DIR$/task1/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/task1/var1.html" afterPath="$PROJECT_DIR$/task1/var1.html" />
     </list>
     <ignored path="FrontEndTraining.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -38,8 +39,8 @@
       <file leaf-file-name="var1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task1/var1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
+            <state vertical-scroll-proportion="-7.8461537">
+              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -48,8 +49,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/task1/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61513156">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.86019737">
+              <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -92,9 +93,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/task1/task.html" />
-        <option value="$PROJECT_DIR$/task1/var1.html" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/task1/css/style.css" />
+        <option value="$PROJECT_DIR$/task1/var1.html" />
       </list>
     </option>
   </component>
@@ -295,8 +296,8 @@
     <recent_temporary>
       <list size="3">
         <item index="0" class="java.lang.String" itemvalue="Gulp.js.autoprefixer" />
-        <item index="1" class="java.lang.String" itemvalue="Gulp.js.default" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.var1.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.var1.html" />
+        <item index="2" class="java.lang.String" itemvalue="Gulp.js.default" />
       </list>
     </recent_temporary>
   </component>
@@ -387,26 +388,26 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/task1/var1.html">
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="19" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+    <entry file="file://$PROJECT_DIR$/task1/var1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task1/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61513156">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.86019737">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
           <folding />
         </state>
       </provider>
