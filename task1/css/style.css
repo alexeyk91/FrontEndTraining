@@ -48,9 +48,14 @@ body{
 }
 
 .right-side-panel{
-    flex-grow: 3;
+    flex-grow: 1;
+}
+
+.right-content-container
+{
     display: flex;
     flex-flow: column nowrap;
     justify-content: space-around;
     align-content: space-around;
+    height: 100%
 }

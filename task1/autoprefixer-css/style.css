@@ -62,9 +62,13 @@ body{
 }
 
 .right-side-panel{
-    -webkit-flex-grow: 3;
-        -ms-flex-positive: 3;
-            flex-grow: 3;
+    -webkit-flex-grow: 1;
+        -ms-flex-positive: 1;
+            flex-grow: 1;
+}
+
+.right-content-container
+{
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
@@ -77,5 +81,6 @@ body{
     -webkit-align-content: space-around;
         -ms-flex-line-pack: distribute;
             align-content: space-around;
+    height: 100%
 }
 /*# sourceMappingURL=style.css.map */
